@@ -18,6 +18,17 @@ You will name your application `mern-todo`, or another name of your choice, when
 create-react-app mern-todo && cd mern-todo/
 ```
 
+### The Four Stages of MERN
+
+This exercise will broken into four stages, to ease into the application building process.
+
+* [Stage 1: *Frontend*](#stage-1:-frontend)
+* Stage 2: *Backend*
+* Stage 3: *Database*
+* Stage 4: *CRUD*
+
+### Stage 1: Frontend
+
 ## Notes
 
 * <a name="1"><sup>1</sup></a> [React Docs - Installation - Creating a New Application](https://facebook.github.io/react/docs/installation.html)
