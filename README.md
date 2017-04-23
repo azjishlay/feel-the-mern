@@ -22,7 +22,7 @@ create-react-app mern-todo && cd mern-todo/
 
 This exercise will broken into four stages, to ease into the application building process.
 
-* [Stage 1: *Frontend*](#stage-1:-frontend)
+* [Stage 1: *Frontend*](#stage-1-frontend)
 * Stage 2: *Backend*
 * Stage 3: *Database*
 * Stage 4: *CRUD*
