@@ -52,7 +52,7 @@ module.exports = data;
 ### TodoList.js
 
 * Declare `TodoList`
-* Use `reverse().map()` method to create a new array `todoItems` of `<li>` elements on every element of the prop `data` passed from the parent
+* Use `reverse().map()` method to create a new array `todoItems` of `<li>` elements on every element in the prop `data` array
 * Return a `<ul>` element that displays the new array
 
 ### Completed
