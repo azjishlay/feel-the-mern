@@ -1,6 +1,8 @@
 # My Full Stack Todo App
 
-### Starter files
+### Start here 👇🏻
+
+![screencap](../../../Images/mern-todo-stage-1-start.png)
 
 - - -
 
