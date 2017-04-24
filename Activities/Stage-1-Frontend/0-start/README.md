@@ -2,7 +2,7 @@
 
 ### Start here 👇🏻
 
-![screencap](../../../Images/mern-todo-stage-1-start.png)
+> ![screencap](../../../Images/mern-todo-stage-1-start.png)
 
 - - -
 
